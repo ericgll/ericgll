@@ -2,4 +2,4 @@
 
 - 🤖 a developer
 - 💻 learning and implementing Vue
-- 💻 learning Cangjie
+- 💻 learning more
